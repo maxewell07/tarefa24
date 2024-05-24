@@ -1,0 +1,27 @@
+h1{ color: goldenrod;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    text-align: center;
+    border: 20px solid transparent; 
+    border-image: url('https://image.slidesdocs.com/responsive-images/docs/wallpaper-with-genuine-shimmering-powder-spots-page-border-background-word-template_ddd00089c6__1131_1600.jpg') 20 round; /* URL da imagem, largura da borda a ser mantida e método de repetição */
+    padding: 10px; 
+    text-align: center; 
+    
+}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsyfTAw7Jz3-WzaNdLXTcjJH7hBGYXqkbRwAh_ODP7Hw&s');
+    background-size: cover; 
+    background-position: center; 
+  }
+
+section h2{ color: goldenrod;
+    
+}
+h2{
+    color: goldenrod;
+}
+    
+
